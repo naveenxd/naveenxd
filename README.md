@@ -12,15 +12,3 @@ const Naveen = {
  challenge: "Currently nothing.."
 }
 ```
-
-![](https://github-readme-stats.vercel.app/api?username=Naveen-X&theme=tokyonight)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-X&show_icons=true&theme=tokyonight&locale=en&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-X&theme=tokyonight&hide_border=false)
-
-
-
-
-![](https://github.com/Naveen-X/Naveen-X/blob/main/README.md)
