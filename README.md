@@ -1,14 +1,62 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Naveen_xD!;Hope+U+like+my+profile!)
-``` javascript 
-const Naveen = {
-  pronouns: "he",
-  code: [Python-Intermediate, HTML-Beginner, C-Beginner],
-  tools: [VsCode, Acode, Termux, Github],
-  ContactMe: {
-                        Telegram: "Naveen_xD",
-                        Twitter: "Naveen__xD",
-                        Instagram: "Naveen__xD"
-                      },
- challenge: "Currently nothing.."
-}
+<div align="center">
+
+# 🌌 Naveen XD
+
+### `⚡ GO BEYOND — PLUS ULTRA`
+
+
+<a href="https://nxd.devh.in">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20nxd.devh.in-111111?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 🤞 領域展開 | PROJECTS
+
 ```
+* 🌌 VoidSpace (active)
+|   Minimalist second brain
+|   flutter · dart · hive
+|
+* 🔥 Loko (active)
+    Live train tracking · PNR · schedules
+    flutter · dart
+```
+
+---
+
+### 🗡️ ARSENAL
+
+<div align="center">
+
+**CORE**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,dart,ts&theme=dark" />
+
+<br><br>
+
+**INFRA**
+
+<img src="https://skillicons.dev/icons?i=python,bash,nodejs,mongodb&theme=dark" />
+
+<br><br>
+
+**SYSTEM**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,git,vscode,docker&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+> *"If you don't take risks, you can't create a future."* — **Luffy**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Naveen-X&style=for-the-badge&color=0d1117&label=VIEWS&labelColor=0d1117" alt="Profile Views" />
+
+</div>
