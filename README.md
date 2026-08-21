@@ -16,13 +16,9 @@
 ### 🤞 領域展開 | PROJECTS
 
 ```
-* 🌌 VoidSpace (active)
-|   Minimalist second brain
-|   flutter · dart · hive
-|
-* 🔥 Loko (active)
-    Live train tracking · PNR · schedules
-    flutter · dart
+* ⛩️ Mirai (active)
+   Anime streaming app
+   flutter · dart  
 ```
 
 ---
@@ -57,6 +53,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Naveen-X&style=for-the-badge&color=0d1117&label=VIEWS&labelColor=0d1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=naveenxd&style=for-the-badge&color=0d1117&label=VIEWS&labelColor=0d1117" alt="Profile Views" />
 
 </div>
