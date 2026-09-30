@@ -3,8 +3,6 @@
 # 🌌 Naveen XD
 
 ### `⚡ GO BEYOND — PLUS ULTRA`
-
-
 <a href="https://nxd.devh.in">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20nxd.devh.in-111111?style=for-the-badge&logoColor=white" />
 </a>
@@ -30,19 +28,16 @@
 **CORE**
 
 <img src="https://skillicons.dev/icons?i=flutter,react,dart,ts&theme=dark" />
-
 <br><br>
 
 **INFRA**
 
 <img src="https://skillicons.dev/icons?i=python,bash,nodejs,mongodb&theme=dark" />
-
 <br><br>
 
 **SYSTEM**
 
 <img src="https://skillicons.dev/icons?i=linux,arch,git,vscode,docker&theme=dark" />
-
 </div>
 
 ---
